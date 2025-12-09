@@ -20,7 +20,7 @@ LiteBokz.js requires no download. Just insert the following code inside the `<he
 
 ### 2. Choose your images
 
-LiteBokz.js requires no download. Just insert the following code inside the `<head>` element.
+Just add the `"litebokz"` class to any image for instant results. 
 
 ### 3. Customize your LiteBokz
 
