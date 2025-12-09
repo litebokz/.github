@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="250" height="250" alt="logo" src="https://github.com/user-attachments/assets/802bc019-a05d-48f7-aeac-daa54fff25c2" />
-</p>
-
 # <p align="center">Litebokz.js</p>
 
 > <p align="center">A Lightbox That's Actually Light.</p>
