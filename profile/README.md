@@ -1,6 +1,6 @@
 # <p align="center">Litebokz.js</p>
 
-> <p align="center">A Lightbox That's Actually Light.</p>
+> <p align="center">Your Fast & Lightweight Image Viewer</p>
 
 Your modern, clean and minimal JavaScript lightbox library for viewing images. Embed it into any HTML website for instant image previewing.
 
